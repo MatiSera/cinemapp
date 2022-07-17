@@ -1,0 +1,27 @@
+{
+  "workbench.colorCustomizations": {
+    "terminal.ansiWhite": "#ffffff",
+    "terminal.ansiBrightCyan": "#a3e9d5",
+    "terminalCursor.background": "#32d74b",
+    "terminal.ansiYellow": "#ffe100",
+    "terminal.ansiCyan": "#a3e9d4",
+    "terminal.ansiBrightYellow": "#fff68b",
+    "terminal.ansiBrightGreen": "#32d74b",
+    "terminal.ansiBrightMagenta": "#ffb4b8",
+    "terminalCursor.foreground": "#32d74b",
+    "terminal.background": "#1b2c3e",
+    "terminal.ansiBrightBlack": "#414141",
+    "terminal.ansiMagenta": "#f58a8d",
+    "terminal.ansiBrightRed": "#ff7c77",
+    "terminal.ansiRed": "#f1938e",
+    "terminal.foreground": "#ffffff",
+    "terminal.ansiGreen": "#68f400",
+    "terminal.ansiBlue": "#005bbb",
+    "terminal.ansiBrightBlue": "#77dcff",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBlack": "#000000",
+    "activityBar.background": "#432707",
+    "titleBar.activeBackground": "#5E370A",
+    "titleBar.activeForeground": "#FEFAF6"
+  }
+}
